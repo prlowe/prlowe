@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prlowe
 - 👀 I’m interested in creating technology condusive to human flourishment.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning android development and C
 - 💞️ I’m looking to collaborate on androind launchers
 
 <!---
